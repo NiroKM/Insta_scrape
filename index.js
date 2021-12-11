@@ -81,6 +81,7 @@ async function execute() {
     })
 
     console.log('Complete. File Stored as CSV')
+    console.log('All complete')
 
 }
 
